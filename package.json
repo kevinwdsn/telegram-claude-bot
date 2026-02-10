@@ -1,0 +1,19 @@
+{
+  "name": "telegram-claude-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scripts": {
+  "start": "node index.js"
+},
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.74.0",
+    "telegraf": "^4.16.3"
+  }
+}
